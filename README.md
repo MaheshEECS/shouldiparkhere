@@ -11,3 +11,5 @@ How to use **ShouldIParkHere**
 
 A preview of how it works.
 
+![Screenshot of my project](https://github.com/user-attachments/assets/cedf4879-0d3e-40f9-9648-3908b5d51a74)
+
